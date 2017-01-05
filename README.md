@@ -48,5 +48,5 @@ You can use the generator to generate a cube in a random state and get its state
 * To quit:  
   type `quit` or `q`.  
   
-  ## Reference ##
-  Cube Explorer: http://kociemba.org/
+## Reference ##
+Cube Explorer: http://kociemba.org/
